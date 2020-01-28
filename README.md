@@ -33,8 +33,6 @@
   <p align="center">
     The basics of graphics programming !
     <br />
-    <br />
-    <br />
   </p>
 </p>
 
