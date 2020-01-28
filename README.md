@@ -127,7 +127,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-ANDEOL Kévin - (https://twitter.com/your_username) - andeol.kevin@gmail.com
+ANDEOL Kévin - andeol.kevin@gmail.com
 
 Project Link: [https://github.com/kandeol/FDF-project-42](https://github.com/kandeol/FDF-project-42)
 
