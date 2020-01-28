@@ -17,10 +17,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -62,6 +58,7 @@ z) by segments.
 ### Built With
 
 * C
+* Library miniLibX
 
 
 
@@ -109,8 +106,8 @@ Translation
 * down arrow : down
 
 Zoom
-* + : zoom+
-* - : zoom-
+* numeric keypad more : zoom+
+* numeric keypad less : zoom-
 
 
 <!-- LICENSE -->
@@ -146,5 +143,5 @@ Project Link: [https://github.com/kandeol/FDF-project-42](https://github.com/kan
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://www.linkedin.com/in/k%C3%A9vin-andeol-544723195/
 [product-screenshot]: images/Screen_fdf.png
