@@ -50,7 +50,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[product-screenshot]
+![Product Name Screen Shot][product-screenshot]
 
 This project consists in creating graphically the schematic representation  of a terrain in relief by connecting different points (x, y,
 z) by segments.
